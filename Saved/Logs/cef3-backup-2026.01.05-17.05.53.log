@@ -1,0 +1,15 @@
+[13028:5360:0105/151651.287:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[13028:5360:0105/151651.635:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[13028:3728:0105/151651.646:ERROR:external_registry_loader_win.cc(144)] Missing value path for key Software\Google\Chrome\Extensions\kadaohckdkghfaclhjmkmplebcdcnfnp.
+[31528:22004:0105/151704.329:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B01D2E5204E8FE27E9A25A7961CFAAF9 will be ignored
+[13028:15836:0105/151705.669:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[13028:15836:0105/151706.781:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[13028:5360:0105/151706.998:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[13028:5360:0105/151706.998:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[13028:5360:0105/151706.998:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[13028:5360:0105/151706.998:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[13028:15836:0105/151707.003:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[13028:5360:0105/163146.780:ERROR:device_event_log_impl.cc(196)] [16:31:46.725] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
+[13028:5360:0105/200531.834:ERROR:device_event_log_impl.cc(196)] [20:05:31.765] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
+[13028:5360:0105/200541.921:ERROR:device_event_log_impl.cc(196)] [20:05:41.920] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
+[13028:5360:0105/200553.099:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
